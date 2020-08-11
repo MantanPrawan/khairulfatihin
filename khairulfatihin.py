@@ -112,7 +112,7 @@ def masuk():
 	pilih_masuk()
 
 def pilih_masuk():
-	msuk = raw_input("\033[1;93m▄︻̷̿┻̿═━一 \033[91m:\033[1;96m ")
+	msuk = raw_input("\033[1;93mBY WAHYU \033[91m:\033[1;96m ")
 	if msuk =="":
 		print"\033[37;1m[\033[32;1m!\033[37;1m] Isi Yg Benar !"
 		pilih_masuk()
@@ -266,14 +266,14 @@ def menu():
 	print "\033[1;97m[\033[1;34m•\033[1;97m]\033[1;34m UID\033[1;91m           =>\033[1;93m "+id
 	print "\033[1;97m[\033[1;34m+\033[1;97m]\033[1;34m Tanggal Lahir\033[1;91m =>\033[1;93m "+ a['birthday']
 	print "\033[37;96m╔═════════════════════════╗"
-	print "\033[37;96m║[\033[1;31;1m01\033[37;96m]\033[1;31;1m->\033[37;1mCrack ID Indonesia \033[37;96m║"
+	print "\033[37;96m║[\033[1;31;1m01\033[37;96m]\033[1;31;1m->\033[37;1mCrack ID All Negara \033[37;96m║"
 	print "\033[37;96m║[\033[1;31;1m02\033[37;96m]\033[1;31;1m->\033[37;1mKeluar             \033[37;96m║"
 	print "\033[37;96m╚═════════════════════════╝"
 	pilih()
 	
 ######PILIH######
 def pilih():
-	unikers = raw_input("\033[1;93mWAHYU \033[91m:\033[1;96m ")
+	unikers = raw_input("\033[1;93mBY WAHYU \033[91m:\033[1;96m ")
 	if unikers =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih()
@@ -311,7 +311,7 @@ def indo():
 
 #### PILIH INDO ####
 def pilih_indo():
-	teak = raw_input("\033[1;93mWAHYU \033[91m:\033[1;96m ")
+	teak = raw_input("\033[1;93mBY WAHYU \033[91m:\033[1;96m ")
 	if teak =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih_indo()
