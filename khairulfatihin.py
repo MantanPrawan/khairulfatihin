@@ -372,7 +372,7 @@ def pilih_indo():
 		print("\r\033[1;97m{\033[1;93m➹\033[1;97m} Crack Berjalan "+o),;sys.stdout.flush();time.sleep(1)
 
 	print "\n\033[1;31;1m=========================================="
-        print "\n\033[1;31;1mGUNAKAN DENGAN BIJAK YA BOSS BY KHAIRUL FATIHIN"
+        print "\n\033[1;96;1mGUNAKAN DENGAN BIJAK YA BOSS BY KHAIRUL FATIHIN"
 	print "\n\033[37;1m=========================================="
 	
 ##### MAIN INDONESIA #####
