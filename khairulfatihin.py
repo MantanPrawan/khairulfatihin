@@ -373,7 +373,7 @@ def pilih_indo():
 
 	print "\n\033[1;31;1m=========================================="
         print "\n\033[1;96mJANGAN MENYALAH GUNAKAN SCRIPT INI YA BOSS"
-        print "\n\033[1;33mBY KHAIRUL FATIHIN
+        print "\n\033[1;33mBY KHAIRUL FATIHIN"
 	print "\n\033[37;1m=========================================="
 	
 ##### MAIN INDONESIA #####
