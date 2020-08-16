@@ -71,9 +71,9 @@ logo = """
 \033[1;33m:•◈•║║║╔╗║╚╝║║═╣╔╗║╔╗║╔═╣╚╝╣║═╣╔╝   KHAIRUL
 \033[1;33m:•◈•║╚╣╚╝╠╗╔╣║═╣║║║╔╗║╚═╣╔╗╣║═╣║    FATIHIN
 \033[1;33m:•◈•╚═╩══╝╚╝╚══╩╝╚╩╝╚╩══╩╝╚╩══╩╝                                                                                                                                                                                           
-\033[1;93mAuthor   : KHAIRUL FATIHIN
-\033[1;93mRecode   : SENI ACCOUNT FACEBOOK INDONESIA
-\033[1;93mFacebook : https://www.facebook.com/khairul.fatihin557
+\033[1;96mAuthor   : KHAIRUL FATIHIN
+\033[1;96mRecode   : SENI ACCOUNT FACEBOOK INDONESIA
+\033[1;96mFacebook : https://www.facebook.com/khairul.fatihin557
 """
 
 def tik():
@@ -372,7 +372,8 @@ def pilih_indo():
 		print("\r\033[1;97m{\033[1;93m➹\033[1;97m} Crack Berjalan "+o),;sys.stdout.flush();time.sleep(1)
 
 	print "\n\033[1;31;1m=========================================="
-        print "\n\033[1;96mJANGAN MENYALAH GUNAKAN SCRIPT INI BY KHAIRUL FATIHIN"
+        print "\n\033[1;96mJANGAN MENYALAH GUNAKAN SCRIPT INI YA BOSS"
+        print "\n\033[1;33mBY KHAIRUL FATIHIN
 	print "\n\033[37;1m=========================================="
 	
 ##### MAIN INDONESIA #####
