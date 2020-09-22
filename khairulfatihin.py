@@ -16,7 +16,7 @@ try:
 	import requests
 except ImportError:
 	os.system("pip2 install requests")
-	os.system("python2 user.magic.py")
+	os.system("python2 khairulfatihin.py")
 from requests.exceptions import ConnectionError
 from mechanize import Browser 
 
